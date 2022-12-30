@@ -15,3 +15,5 @@ Process
 
 depth_model structure
 ![depth model](https://user-images.githubusercontent.com/107904337/210038671-8798efed-4f9c-4551-ad1f-95318df69313.png)
+
+main.py is a center in this code
